@@ -1,0 +1,164 @@
+var friends = [
+  {
+      "name":"Brittany",
+      "photo":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLWHkznxX6fEyIIk0oCgPV0e6VWZEAFSpEO7nOrh8nBxwXC7tr",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Frances",
+  "photo":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLOTvrl80xSRRAm3WxUyyW9Jzqlsy4nvuYEstozUYIOghrR_y_",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Angel",
+  "photo":"http://images6.fanpop.com/image/photos/34400000/Cute-Maltese-Puppy-maltese-34431157-263-191.jpg",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Spot",
+  "photo":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTiS9zxedaqAE7O7cQKalVlSJgAAeVS79m4EAezylijS_Ufb9cSA",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Walter",
+  "photo":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz6stfEIxUEiDlDuImBhQHwYQ7v4sjpgA1RVM2Gtgz77ko1FnjUA",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Lisa",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSGRcuNRLX45Hw_0-lmbEZ3MnULN_nwXW0R__B39eVA0ohLoQ6g",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Nicole",
+  "photo":"http://www.yourpurebredpuppy.com/dogbreeds/photos-MNOP/maltesef2.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Jason",
+  "photo":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPKD5gspJ3vXgUevrQxzTJj3XslA8iCmjUJDxxgras0yNfoqqM",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Nate",
+  "photo":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUhcyVnoNKthgemwLLlcHawjTlT6e7gDq_dGiq7VYTX_qSm6n7mw",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Tiffany",
+  "photo":"http://www.pets4homes.co.uk/images/classifieds/2016/01/15/1181984/large/maltese-puppy-for-sale-5698f05e5e9f6.jpeg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+// export the array. 
+module.exports = friends;
